@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Train</string>
+    <string-array name="spinner">
+        <item>  مصر </item>
+        <item> المملكة العربية السعودية </item>
+        <item> تونس </item>
+        <item> الجزائر </item>
+        <item> المغرب </item>
+    </string-array>
+    <string-array name="spinner_from">
+        <item>  القاهرة </item>
+        <item> الاسكندرية </item>
+        <item> الاسماعلية </item>
+        <item> المنيا </item>
+        <item> اسيوط </item>
+        <item> دمنهور </item>
+        <item> الشرقية </item>
+        <item> دمياط </item>
+        <item> اسوان </item>
+    </string-array>
+    <string-array name="spinner_to">
+        <item>  القاهرة </item>
+        <item> الاسكندرية </item>
+        <item> الاسماعلية </item>
+        <item> المنيا </item>
+        <item> اسيوط </item>
+        <item> دمنهور </item>
+        <item> الشرقية </item>
+        <item> دمياط </item>
+        <item> اسوان </item>
+    </string-array>
+    <string-array name="spinner_hour">
+        <item>  1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+    </string-array>
+    <string-array name="spinner_month">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+    </string-array>
+    <string-array name="spinner_day">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+    </string-array>
+    <string-array name="spinner_pm_am">
+        <item> PM </item>
+        <item> AM </item>
+    </string-array>
+    <string-array name="Level">
+        <item> Level 1 </item>
+        <item> Level 2 </item>
+        <item> Level 3 </item>
+    </string-array>
+    <string-array name="pay">
+        <item> vodafone cash </item>
+        <item> Fawry </item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ticket">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Ticket"
+        android:gravity="center"
+        android:textColor="@color/dark_grey"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="F_name :"
+        android:gravity="center"
+        android:textColor="#000"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+        <TextView
+        android:layout_width="match_parent"
+        android:text="ahmed"
+        android:gravity="center"
+        android:textColor="#000"
+            android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="M_name :"
+        android:gravity="center"
+        android:textColor="#000"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+        <TextView
+        android:layout_width="match_parent"
+        android:text="mohamed"
+        android:gravity="center"
+        android:textColor="#000"
+            android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="L_name :"
+        android:gravity="center"
+        android:textColor="#000"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+        <TextView
+        android:layout_width="match_parent"
+        android:text="khaled"
+        android:gravity="center"
+        android:textColor="#000"
+            android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20ssp"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Seat Number :"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:text="22"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Level :"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:text="2"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="arrive :"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:text="02:30 pm"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="travel :"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:text="11:30 am"
+            android:gravity="center"
+            android:textColor="#000"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="@dimen/_20ssp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/_5sdp"
+    android:text="save"
+    android:background="@drawable/register_button"
+    android:textColor="#fff"
+    android:layout_height="wrap_content" />
+    </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+
+
